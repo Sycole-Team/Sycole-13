@@ -1,6 +1,6 @@
 # Sycole-13
 
-Sycole is a jailbreaking tool for iOS that is currently under development. We plan to support iOS 13. This jailbreak will be either a semi-untethered jailbreak or an untethered jailbreak.
+Sycole is a jailbreaking tool for iOS that is currently under development. We plan to support iOS 13.0-13.7 on devices with A9-A13. This jailbreak will be either a semi-untethered jailbreak or an untethered jailbreak.
 
 # Future Plans and Possibilities
 
